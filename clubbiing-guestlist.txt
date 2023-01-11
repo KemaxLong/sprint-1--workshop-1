@@ -1,2 +1,3 @@
 angela hu
-Ke long
+cd
+git
