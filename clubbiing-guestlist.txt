@@ -1,6 +1,3 @@
 angela hu
-ningyi hu
-zhaojing chen
-Al 
-qianye lin
-sophia
+cd
+git
